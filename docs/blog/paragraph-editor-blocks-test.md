@@ -10,7 +10,7 @@ head:
     - content: Every block Paragraph's editor makes
       property: og:title
   - - meta
-    - content: https://vite.dev/og-image-paragraph-editor-blocks-test.{ext}
+    - content: https://vite.dev/og-image-paragraph-editor-blocks-test.jpg
       property: og:image
   - - meta
     - content: https://vite.dev/blog/paragraph-editor-blocks-test
@@ -27,6 +27,7 @@ title: Every block Paragraph's editor makes
 
 # Every block Paragraph's editor makes
 
+![Mountains above a lake](/og-image-paragraph-editor-blocks-test.jpg)
 
 This article uses every block Paragraph's editor makes: **bold**, _italic_, <u>underline</u>, ~~strikethrough~~, `inline code`, and [a link](https://paragraph.com). Characters MDX trips on: \{braces\}, \<angle> brackets, and a\_b\*c.
 
